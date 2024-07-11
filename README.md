@@ -15,7 +15,7 @@ Essa automação vai acessar o sistema da empresa, fazer o login, e começar a c
 
 Com esse passo a passo lógico junto do conhecimento técnico, é possível automatizar qualquer processo que eu queira.
 
-- **Resumo:**Automatizar o processo de cadastro e preenchimento de produtos no sistema da empresa.
+- **Resumo:** Automatizar o processo de cadastro e preenchimento de produtos no sistema da empresa.
 
 ## Ok, por onde começar?
 
